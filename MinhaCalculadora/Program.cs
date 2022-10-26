@@ -26,6 +26,7 @@ namespace MinhaCalculadora
                 Console.WriteLine("resultado final");
                 Console.WriteLine(resultado);
 
+                //teste
                 bool respostaerrada = true;
                 while (respostaerrada)
                 {
